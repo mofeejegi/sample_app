@@ -34,3 +34,5 @@
 .rakeTasks
 
 /.idea
+
+.DS_STORE
